@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing.csproj", "{D89E7424-988E-4A88-ADF0-A8D6D82DB103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D89E7424-988E-4A88-ADF0-A8D6D82DB103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89E7424-988E-4A88-ADF0-A8D6D82DB103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89E7424-988E-4A88-ADF0-A8D6D82DB103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89E7424-988E-4A88-ADF0-A8D6D82DB103}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B355769-1041-42F3-A1A8-B08B14E47EBE}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://desktop-rd5g1bc/test
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Testing.csproj
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal
